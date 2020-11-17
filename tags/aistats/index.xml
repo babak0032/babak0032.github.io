@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aistats on </title>
+    <link>/tags/aistats/</link>
+    <description>Recent content in Aistats on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/aistats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Structured Disentangled Representations</title>
+      <link>/publication/esmaeili-2019-structureda/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/esmaeili-2019-structureda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Neural Topic Models for Reviews</title>
+      <link>/publication/esmaeili-2019-structuredb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/esmaeili-2019-structuredb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
