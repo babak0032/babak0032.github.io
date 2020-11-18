@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dana H Brooks | Babak Esmaeili</title>
+    <link>https://babak0032.github.io/author/dana-h-brooks/</link>
+      <atom:link href="https://babak0032.github.io/author/dana-h-brooks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dana H Brooks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dana H Brooks</title>
+      <link>https://babak0032.github.io/author/dana-h-brooks/</link>
+    </image>
+    
+    <item>
+      <title>Structured Disentangled Representations</title>
+      <link>https://babak0032.github.io/publication/esmaeili-2019-structureda/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://babak0032.github.io/publication/esmaeili-2019-structureda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
