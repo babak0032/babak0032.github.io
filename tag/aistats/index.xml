@@ -5,12 +5,20 @@
     <link>https://babak0032.github.io/tag/aistats/</link>
       <atom:link href="https://babak0032.github.io/tag/aistats/index.xml" rel="self" type="application/rss+xml" />
     <description>AISTATS</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>AISTATS</title>
       <link>https://babak0032.github.io/tag/aistats/</link>
     </image>
+    
+    <item>
+      <title>Rate-Regularization and Generalization in VAEs</title>
+      <link>https://babak0032.github.io/publication/bozkurt-2019-evaluating/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://babak0032.github.io/publication/bozkurt-2019-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Structured Disentangled Representations</title>

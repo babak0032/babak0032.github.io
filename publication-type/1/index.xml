@@ -5,12 +5,20 @@
     <link>https://babak0032.github.io/publication-type/1/</link>
       <atom:link href="https://babak0032.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://babak0032.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Rate-Regularization and Generalization in VAEs</title>
+      <link>https://babak0032.github.io/publication/bozkurt-2019-evaluating/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://babak0032.github.io/publication/bozkurt-2019-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can VAEs Generate Novel Examples?</title>
@@ -33,6 +41,22 @@
       <link>https://babak0032.github.io/publication/esmaeili-2019-structuredb/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://babak0032.github.io/publication/esmaeili-2019-structuredb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conjugate Energy-Based Models</title>
+      <link>https://babak0032.github.io/publication/wu-2021-conjugate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://babak0032.github.io/publication/wu-2021-conjugate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nested Variational Inference</title>
+      <link>https://babak0032.github.io/publication/zimmermann-2021-nested/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://babak0032.github.io/publication/zimmermann-2021-nested/</guid>
       <description></description>
     </item>
     

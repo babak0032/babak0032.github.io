@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="PhD Student">
+  <meta name="description" content="We propose conjugate energy-based models (EBMs), a class of deep latent-variable models with a tractable posterior. Conjugate EBMs have similar use cases as variational autoencoders, in the sense that they learn an unsupervised mapping between data and latent variables. However these models omit a generator, which allows them to learn more flexible notions of similarity between data points. Our experiments demonstrate that conjugate EBMs achieve competitive results in terms of image modelling, predictive power of latent space, and out-of-distribution detection on a variety of datasets.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://babak0032.github.io/author/jan-willem-van-de-meent/">
+  <link rel="alternate" hreflang="en-us" href="https://babak0032.github.io/publication/wu-2021-conjugate/">
 
   
 
@@ -252,14 +252,12 @@
   
 
   
-  <link rel="alternate" href="/author/jan-willem-van-de-meent/index.xml" type="application/rss+xml" title="Babak Esmaeili">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://babak0032.github.io/author/jan-willem-van-de-meent/">
+  <link rel="canonical" href="https://babak0032.github.io/publication/wu-2021-conjugate/">
 
   
   
@@ -275,18 +273,59 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Babak Esmaeili">
-  <meta property="og:url" content="https://babak0032.github.io/author/jan-willem-van-de-meent/">
-  <meta property="og:title" content="Jan-Willem van de Meent | Babak Esmaeili">
-  <meta property="og:description" content="PhD Student"><meta property="og:image" content="https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://babak0032.github.io/publication/wu-2021-conjugate/">
+  <meta property="og:title" content="Conjugate Energy-Based Models | Babak Esmaeili">
+  <meta property="og:description" content="We propose conjugate energy-based models (EBMs), a class of deep latent-variable models with a tractable posterior. Conjugate EBMs have similar use cases as variational autoencoders, in the sense that they learn an unsupervised mapping between data and latent variables. However these models omit a generator, which allows them to learn more flexible notions of similarity between data points. Our experiments demonstrate that conjugate EBMs achieve competitive results in terms of image modelling, predictive power of latent space, and out-of-distribution detection on a variety of datasets."><meta property="og:image" content="https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-07-07T00:00:00&#43;00:00">
+    
+    
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://babak0032.github.io/publication/wu-2021-conjugate/"
+  },
+  "headline": "Conjugate Energy-Based Models",
+  
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Hao Wu"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Northeastern University",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "We propose conjugate energy-based models (EBMs), a class of deep latent-variable models with a tractable posterior. Conjugate EBMs have similar use cases as variational autoencoders, in the sense that they learn an unsupervised mapping between data and latent variables. However these models omit a generator, which allows them to learn more flexible notions of similarity between data points. Our experiments demonstrate that conjugate EBMs achieve competitive results in terms of image modelling, predictive power of latent space, and out-of-distribution detection on a variety of datasets."
+}
+</script>
+
+  
 
   
 
@@ -294,10 +333,13 @@
   
 
 
+  
 
 
 
-  <title>Jan-Willem van de Meent | Babak Esmaeili</title>
+
+
+  <title>Conjugate Energy-Based Models | Babak Esmaeili</title>
 
 </head>
 
@@ -528,56 +570,356 @@
   </div>
 
   <div class="page-body">
+    <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Conjugate Energy-Based Models</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/hao-wu/">Hao Wu</a></span>, <span ><a href="/author/babak-esmaeili/">Babak Esmaeili</a></span>, <span ><a href="/author/michael-wick/">Michael Wick</a></span>, <span ><a href="/author/jean-baptiste-tristan/">Jean-Baptiste Tristan</a></span>, <span ><a href="/author/jan-willem-van-de-meent/">Jan-Willem van de Meent</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 0001
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
     
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1>Jan-Willem van de Meent</h1>
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://openreview.net/pdf/36ac6d128e9e82349e4e8f318b26b659f9fe2512.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/wu-2021-conjugate/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+  
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.youtube.com/watch?v=1SMaKykE4oE&amp;t=367s&amp;ab_channel=HaoWu" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We propose conjugate energy-based models (EBMs), a class of deep latent-variable models with a tractable posterior. Conjugate EBMs have similar use cases as variational autoencoders, in the sense that they learn an unsupervised mapping between data and latent variables. However these models omit a generator, which allows them to learn more flexible notions of similarity between data points. Our experiments demonstrate that conjugate EBMs achieve competitive results in terms of image modelling, predictive power of latent space, and out-of-distribution detection on a variety of datasets.</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/bozkurt-2019-evaluating/">Rate-Regularization and Generalization in VAEs</a>
-        </li>
-        
-        <li>
-          <a href="/publication/bozkurt-2018-can/">Can VAEs Generate Novel Examples?</a>
-        </li>
-        
-        <li>
-          <a href="/publication/esmaeili-2019-structureda/">Structured Disentangled Representations</a>
-        </li>
-        
-        <li>
-          <a href="/publication/esmaeili-2019-structuredb/">Structured Neural Topic Models for Reviews</a>
-        </li>
-        
-        <li>
-          <a href="/publication/wu-2021-conjugate/">Conjugate Energy-Based Models</a>
-        </li>
-        
-        <li>
-          <a href="/publication/zimmermann-2021-nested/">Nested Variational Inference</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">3rd Symposium on Advances in Approximate Bayesian Inference</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/aabi/">AABI</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://babak0032.github.io/publication/wu-2021-conjugate/&amp;text=Conjugate%20Energy-Based%20Models" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://babak0032.github.io/publication/wu-2021-conjugate/&amp;t=Conjugate%20Energy-Based%20Models" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Conjugate%20Energy-Based%20Models&amp;body=https://babak0032.github.io/publication/wu-2021-conjugate/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://babak0032.github.io/publication/wu-2021-conjugate/&amp;title=Conjugate%20Energy-Based%20Models" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Conjugate%20Energy-Based%20Models%20https://babak0032.github.io/publication/wu-2021-conjugate/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://babak0032.github.io/publication/wu-2021-conjugate/&amp;title=Conjugate%20Energy-Based%20Models" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   </div>
-</section>
+</div>
   </div>
 
   <div class="page-footer">

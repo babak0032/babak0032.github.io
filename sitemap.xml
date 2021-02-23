@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://babak0032.github.io/publication-type/3/</loc>
+    <loc>https://babak0032.github.io/publication-type/1/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://babak0032.github.io/tag/aistats/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://babak0032.github.io/author/jean-baptiste-tristan/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://babak0032.github.io/author/jennifer-g.-dy/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
@@ -58,8 +68,8 @@
   </url>
   
   <url>
-    <loc>https://babak0032.github.io/publication-type/1/</loc>
-    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+    <loc>https://babak0032.github.io/tags/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -70,16 +80,6 @@
   <url>
     <loc>https://babak0032.github.io/tag/neurips-workshop-on-critiquing-and-correcting-trends-in-machine-learning/</loc>
     <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://babak0032.github.io/tags/</loc>
-    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://babak0032.github.io/tag/aistats/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,6 +133,10 @@
   </url>
   
   <url>
+    <loc>https://babak0032.github.io/tag/aabi/</loc>
+  </url>
+  
+  <url>
     <loc>https://babak0032.github.io/author/babak-esmaeili/</loc>
   </url>
   
@@ -141,11 +145,31 @@
   </url>
   
   <url>
+    <loc>https://babak0032.github.io/publication/wu-2021-conjugate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babak0032.github.io/author/heiko-zimmermann/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babak0032.github.io/author/michael-wick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babak0032.github.io/publication/zimmermann-2021-nested/</loc>
+  </url>
+  
+  <url>
     <loc>https://babak0032.github.io/post/</loc>
   </url>
   
   <url>
     <loc>https://babak0032.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://babak0032.github.io/author/sam-stites/</loc>
   </url>
   
 </urlset>
