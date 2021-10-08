@@ -5,12 +5,20 @@
     <link>https://babak0032.github.io/author/alican-bozkurt/</link>
       <atom:link href="https://babak0032.github.io/author/alican-bozkurt/index.xml" rel="self" type="application/rss+xml" />
     <description>Alican Bozkurt</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Alican Bozkurt</title>
       <link>https://babak0032.github.io/author/alican-bozkurt/</link>
     </image>
+    
+    <item>
+      <title>Rate-Regularization and Generalization in VAEs</title>
+      <link>https://babak0032.github.io/publication/bozkurt-2019-evaluating/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://babak0032.github.io/publication/bozkurt-2019-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can VAEs Generate Novel Examples?</title>
@@ -25,14 +33,6 @@
       <link>https://babak0032.github.io/publication/esmaeili-2019-structureda/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://babak0032.github.io/publication/esmaeili-2019-structureda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rate-Regularization and Generalization in VAEs</title>
-      <link>https://babak0032.github.io/publication/bozkurt-2019-evaluating/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://babak0032.github.io/publication/bozkurt-2019-evaluating/</guid>
       <description></description>
     </item>
     
