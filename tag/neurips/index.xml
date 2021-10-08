@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Heiko Zimmermann | Babak Esmaeili</title>
-    <link>https://babak0032.github.io/author/heiko-zimmermann/</link>
-      <atom:link href="https://babak0032.github.io/author/heiko-zimmermann/index.xml" rel="self" type="application/rss+xml" />
-    <description>Heiko Zimmermann</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <title>NeurIPS | Babak Esmaeili</title>
+    <link>https://babak0032.github.io/tag/neurips/</link>
+      <atom:link href="https://babak0032.github.io/tag/neurips/index.xml" rel="self" type="application/rss+xml" />
+    <description>NeurIPS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Heiko Zimmermann</title>
-      <link>https://babak0032.github.io/author/heiko-zimmermann/</link>
+      <title>NeurIPS</title>
+      <link>https://babak0032.github.io/tag/neurips/</link>
     </image>
     
     <item>

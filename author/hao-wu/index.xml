@@ -5,7 +5,7 @@
     <link>https://babak0032.github.io/author/hao-wu/</link>
       <atom:link href="https://babak0032.github.io/author/hao-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Hao Wu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hao Wu</title>
@@ -15,16 +15,8 @@
     <item>
       <title>Conjugate Energy-Based Models</title>
       <link>https://babak0032.github.io/publication/wu-2021-conjugate/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://babak0032.github.io/publication/wu-2021-conjugate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nested Variational Inference</title>
-      <link>https://babak0032.github.io/publication/zimmermann-2021-nested/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://babak0032.github.io/publication/zimmermann-2021-nested/</guid>
       <description></description>
     </item>
     
@@ -33,6 +25,14 @@
       <link>https://babak0032.github.io/publication/esmaeili-2019-structureda/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://babak0032.github.io/publication/esmaeili-2019-structureda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nested Variational Inference</title>
+      <link>https://babak0032.github.io/publication/zimmermann-2021-nested/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://babak0032.github.io/publication/zimmermann-2021-nested/</guid>
       <description></description>
     </item>
     
