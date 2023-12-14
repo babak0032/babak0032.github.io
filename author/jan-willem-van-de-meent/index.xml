@@ -5,12 +5,20 @@
     <link>https://babak0032.github.io/author/jan-willem-van-de-meent/</link>
       <atom:link href="https://babak0032.github.io/author/jan-willem-van-de-meent/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan-Willem van de Meent</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Jan-Willem van de Meent</title>
       <link>https://babak0032.github.io/author/jan-willem-van-de-meent/</link>
     </image>
+    
+    <item>
+      <title>Topological Obstructions and How to Avoid Them</title>
+      <link>https://babak0032.github.io/publication/esmaeili2023topological/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://babak0032.github.io/publication/esmaeili2023topological/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conjugate Energy-Based Models</title>

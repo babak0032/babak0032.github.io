@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Heiko Zimmermann | Babak Esmaeili</title>
-    <link>https://babak0032.github.io/author/heiko-zimmermann/</link>
-      <atom:link href="https://babak0032.github.io/author/heiko-zimmermann/index.xml" rel="self" type="application/rss+xml" />
-    <description>Heiko Zimmermann</description>
+    <title>Robin Walters* | Babak Esmaeili</title>
+    <link>https://babak0032.github.io/author/robin-walters/</link>
+      <atom:link href="https://babak0032.github.io/author/robin-walters/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robin Walters*</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://babak0032.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Heiko Zimmermann</title>
-      <link>https://babak0032.github.io/author/heiko-zimmermann/</link>
+      <title>Robin Walters*</title>
+      <link>https://babak0032.github.io/author/robin-walters/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://babak0032.github.io/publication/esmaeili2023topological/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://babak0032.github.io/publication/esmaeili2023topological/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nested Variational Inference</title>
-      <link>https://babak0032.github.io/publication/zimmermann-2021-nested/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://babak0032.github.io/publication/zimmermann-2021-nested/</guid>
       <description></description>
     </item>
     
